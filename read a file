@@ -1,0 +1,4 @@
+S=str(input("the filename:"))
+fhand=open('abc.py')
+inp=fhand.read()
+print(inp)
